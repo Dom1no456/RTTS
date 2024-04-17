@@ -1,0 +1,16 @@
+threading
+time
+subprocess
+streamlink
+json
+requests
+os
+speechkit
+speechkit.stt
+clearml
+langchain.chat_models.gigachat 
+langchain.schema 
+streamlit
+pandas
+matplotlib
+numpy
