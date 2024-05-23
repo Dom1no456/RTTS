@@ -1,4 +1,4 @@
-# RTTS
+# RTTS - Short Live
 Real-Time Transcription Summarizer (RTTS) / приложение для сокращения транскрипций в реальном времени
 
  ![image](https://github.com/nicetea9/RTTS/assets/162029704/d0783930-db79-4e57-b0c7-168e8c795537)
